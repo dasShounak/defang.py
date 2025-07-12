@@ -1,4 +1,6 @@
 #!/bin/python3
+# Author: Shounak Das
+# GitHub: https://github.com/dasShounak
 
 import argparse
 
