@@ -49,6 +49,5 @@ if __name__ == "__main__":
     
     args = parser.parse_args()
 
-    user_input = args.input
 
-    Defang(args.mode, user_input)
+    Defang(args.mode, args.input)
