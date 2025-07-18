@@ -1,4 +1,4 @@
-## defang.py
+# defang.py
 
 A Python script to defang URLs, email  and IP addresses.
 
